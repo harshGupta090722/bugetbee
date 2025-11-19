@@ -14,3 +14,5 @@ npx shadcn@latest add badge calendar card checkbox drawer dropdown-menu input po
 -->Add font 
 
 const inter=Inter({subsets:["latin"]}); add this inside layout.js ,and delete the rest fonts.
+
+container class makes all screen,
