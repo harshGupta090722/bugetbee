@@ -15,4 +15,18 @@ npx shadcn@latest add badge calendar card checkbox drawer dropdown-menu input po
 
 const inter=Inter({subsets:["latin"]}); add this inside layout.js ,and delete the rest fonts.
 
-container class makes all screen,
+
+i)container gives your content a max-width that changes at different breakpoints.
+
+It:
+Centers your content
+Adds horizontal padding
+Expands on small screens
+Gets fixed widths on larger screens
+So it helps layout become responsive
+
+
+-->Create Strcuture of the app in layout.js
+
+Use Clerk for authentication -Signup /SignIn 
+
