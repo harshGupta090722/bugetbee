@@ -50,3 +50,5 @@ Study what are catch-all-route??
                sending budget alerts to users.
 
 -->Now design your landing page-i.e page.tsx
+
+server Component are more of a static componenets,whereas client components are more of a dynamic compoenets i.e which needs laoding and all.
