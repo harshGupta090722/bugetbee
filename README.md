@@ -30,3 +30,23 @@ So it helps layout become responsive
 
 Use Clerk for authentication -Signup /SignIn 
 
+
+-->Protect User from entering sensitive routes without logged in ,redirect it to sign in page.(this is also done using clerk middlewares)
+
+
+-->Put signIn 's page.jsx inside (auth) --> sign-in  -->[[...signin]]
+Study what are catch-all-route??
+
+-->Avatar sz=ize is not changing
+
+
+-->Connect to Supabase using connection string and all ,We will use prisma 
+
+-->Setup ArcJet-Bot detection ,Rate Limiting ,Email validation ,Attack Protection ,Data Redaction.
+
+-->Setup Ingest- 
+               Recalculating recurring transactions, 
+               generating monthly AI-powered financial reports, 
+               sending budget alerts to users.
+
+-->Now design your landing page-i.e page.tsx
